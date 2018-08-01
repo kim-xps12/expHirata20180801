@@ -1,0 +1,16 @@
+Type,LA-3260
+Version,2.12
+Make Time,'00/01/28 22:35:15
+Operate Mode,Single        
+Memory Mode,Manual            
+Meas Time,'000:00:00.0,,,'000:00:00.0
+Interval Time,'000:00:00.0,,,'000:00:00.0
+Total Time,'000:00:00.0,,,'000:00:00.0
+LN Setting,L01,L99,,L01,L99
+Level Range, 50-120dB,,, 50-120dB
+,MAIN/SUB,MAIN
+,Freq Weight,A,,Z
+,Time Weight,Fast,,10ms
+Meas Date,Elapsed Time,Lp   ,Judge,Leq  ,LE   ,Lmax ,Lmin ,Lpeak,L05  ,L10  ,L50  ,L90  ,L95  ,L01  ,L99  ,LHi  ,LLo  ,LAve ,Judge
+'00/01/28 22:35:15,,+066.70,OK
+'00/00/00 00:00:00,'000:00:00.0,,,'---.--,'---.--,'---.--,'---.--,'---.--,'---.--,'---.--,'---.--,'---.--,'---.--,'---.--,'---.--,'---.--,'---.--,'---.--,'-
